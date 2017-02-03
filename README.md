@@ -10,8 +10,8 @@ The servo achieves in practise rotation of 160°.
 **Features**
 
 - Voltage: 4.8-6.0 Volts
-- Torque: 16.6/20.8 oz-in. (4.8/6.0V)
-- Speed: 0.15/0.10 sec/60° (4.8/6.0V)
+- Torque: 230g/cm. (6.0V)
+- Speed: 0.10 sec/60° (6.0V)
 - Rotation: ~160°
 - Nylon Gears
 - 3-Pole Ferrite Motor

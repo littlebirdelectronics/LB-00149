@@ -3,7 +3,7 @@ Part Number: [LB-00148](https://littlebirdelectronics.com.au/products/micro-serv
 
 ## Description:
 
-This high quality micro-sized servo is an affordable and simple to use servo for all your mechatronic needs. You will find it similar in specifications to the Hitec HS-55, taking an input voltage of 6 volts and delivering 230g/cmnmaximum torque at 0.10 sec/60°
+This high quality micro-sized servo is an affordable and simple to use servo for all your mechatronic needs. You will find it similar in specifications to the Hitec HS-55, taking an input voltage of 6 volts and delivering 230g/cm maximum torque at 0.10 sec/60°
 The micro servo comes with a 3 wire ground, power and control cable with a three pin female header on the end.
 The servo achieves in practise rotation of 160°.
 
